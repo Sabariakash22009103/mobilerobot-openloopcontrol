@@ -122,14 +122,14 @@ ep_robot.close()
 
 ![robo](./img/robomaster.png)
 
-### Strating:
-![starting](/img/image%202.jpg)
+### Starting:
+![starting](![image 2](https://github.com/Sabariakash22009103/mobilerobot-openloopcontrol/assets/119390227/afff2432-469e-4492-87ce-8a6ca45decda))
 
 ### In Movement:
-![movement](/img/image%203.jpg)
+![movement](![image 3](https://github.com/Sabariakash22009103/mobilerobot-openloopcontrol/assets/119390227/2bc8c87f-58ad-4bfe-9d96-4e80aea0a52c))
 
 ### Ending:
-![ending](/img/image1.jpg)
+![ending](![image1](https://github.com/Sabariakash22009103/mobilerobot-openloopcontrol/assets/119390227/e9be573a-e443-4966-9304-89b89ffb7800))
 
 <br/>
 <br/>

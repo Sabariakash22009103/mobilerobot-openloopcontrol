@@ -122,7 +122,6 @@ ep_robot.close()
 
 ![robo](./img/robomaster.png)
 
-Insert image here
 ### Strating:
 ![starting](/img/image%202.jpg)
 
